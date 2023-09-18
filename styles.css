@@ -1,1 +1,38 @@
 /*  your css code here. If applicable */
+body{
+	background-color:rgb(135, 206, 235);
+}
+.a{
+	color:white;
+	background-color:black;
+}
+.c{
+	color:red;
+}
+.w{
+	width:50%;
+	background-color:white;
+	padding:10px;
+	font-size:22px;
+}
+.x{
+	width:50%;
+	background-color:grey;
+	padding:10px;
+}
+.y{
+	width:50%;
+	background-color:pink;
+	padding:10px;
+}
+.z{
+	width:50%;
+	background-color:grey;
+	padding:10px;
+}
+.s{
+	width:50%;
+	background-color:white;
+	padding:10px;
+	font-size:22px;	
+}
